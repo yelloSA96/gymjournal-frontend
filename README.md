@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Gym Journal Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TODO
+- [ ] Add program Display
+- [ ] Add program input form so that way we are tracking against it
+- [ ] Add Cardio Entry to frontend 
 
 ## Available Scripts
 
@@ -68,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## References
+https://www.lifewire.com/best-workout-log-apps-4140222
