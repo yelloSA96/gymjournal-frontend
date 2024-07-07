@@ -1,5 +1,4 @@
 // import React, {useEffect, useState} from "react";
-import GymEntryList from "@components/GymEntryList";
 
 
 // Logic: Fetch entries (GET)
@@ -47,7 +46,6 @@ export default function Entry() {
     return (
         <div>
             <h1>Entry Page here</h1>
-            <GymEntryList entries={undefined} onDelete={undefined}/>
 
         </div>
     )
